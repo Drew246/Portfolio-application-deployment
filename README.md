@@ -75,7 +75,8 @@ Open in a browser or with a code editor.
 
 ### Deployment
 
-You can deploy this project using a browser.
+This project has been deployed using Github Pages. See website link below:
+https://drew246.github.io/Portfolio-application-deployment/
 
 
 
@@ -95,15 +96,15 @@ You can deploy this project using a browser.
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-Project 2: Mobile version
-Project 3: Contact form 
-Project 4: Desktop version
-Project 5: Application deploy
-Project 6: Evaluate accessibility 
-Project 7: Mobile menu 
-Project 8: Details modal 
-Project 9: Validate contact form 
-Project 10: Preserve data in the browser 
+Project 2: Mobile version  -completed- <br>
+Project 3: Contact form  -completed- <br>
+Project 4: Desktop version  -completed- <br>
+Project 5: Application deploy  -completed- <br>
+Project 6: Evaluate accessibility <br>
+Project 7: Mobile menu <br>
+Project 8: Details modal <br>
+Project 9: Validate contact form <br> 
+Project 10: Preserve data in the browser <br> 
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
